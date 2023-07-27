@@ -1,0 +1,19 @@
+body{
+  background-image: url(../img/fondo.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.p {
+  color: blue;
+  font-size: 2rem;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.tortitas{
+  width: 50%;
+  height: 50%
+}
